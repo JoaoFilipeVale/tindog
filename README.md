@@ -13,6 +13,7 @@ Deployed Website: https://joaofilipevale.github.io/tindog/
   * HTML
   * CSS
   * Bootstrap
+  * JavaScript
 
 ## Authors
 
